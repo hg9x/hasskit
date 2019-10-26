@@ -1,6 +1,6 @@
 # hasskit
 
-A Wonderful Home Assistant Control App
+An Elegant Home Assistant Control App
 
 ## Getting Started
 
